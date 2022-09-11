@@ -1,2 +1,2 @@
 # zero.db
-A basic SQlite database
+A basic JSON database
